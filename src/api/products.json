@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Lightsaber de Luke Skywalker",
+      "img_url": "https://ricksforge.com.br/cdn/shop/files/X5A7524.jpg?v=1689899177",
+      "price": 99.99,
+      "description": "Réplica do famoso sabre de luz de Luke Skywalker.",
+      "category": "star_wars"
+    },
+    {
+      "id": "2",
+      "name": "R2-D2 Action Figure",
+      "img_url": "https://hasbropulse.com/cdn/shop/products/F7075_PROD_SW_BL_KENDRICK_062_Online_2000SQ.jpg?v=1680527519&width=1200",
+      "price": 49.99,
+      "description": "Figura de ação do adorável droide R2-D2.",
+      "category": "star_wars"
+    },
+    {
+      "id": "3",
+      "name": "Boné do Yoda",
+      "img_url": "https://http2.mlstatic.com/D_NQ_NP_775417-CBT70099454274_062023-O.webp",
+      "price": 29.99,
+      "description": "Boné com as características do Mestre Yoda.",
+      "category": "star_wars"
+    },
+    {
+      "id": "4",
+      "name": "Falcon Millennium LEGO Set",
+      "img_url": "https://m.media-amazon.com/images/I/81kmuPJ9IOL.jpg",
+      "price": 149.99,
+      "description": "Kit LEGO detalhado da nave Millennium Falcon.",
+      "category": "star_wars"
+    },
+    {
+      "id": "6",
+      "name": "Funko Pop! Darth Vader",
+      "img_url": "https://cdn.awsli.com.br/600x700/84/84034/produto/214369246/70486_starwars_darthvader_pop_glam-1-fw-web-plpxr1f1t0.jpg",
+      "price": 12.99,
+      "description": "Figura Funko Pop! do icônico vilão Darth Vader.",
+      "category": "star_wars"
+    },
+    {
+      "id": "7",
+      "name": "Camiseta Baby Yoda",
+      "img_url": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_feminina_unissex_no_coffee_no_force_baby_yoda_star_wars_preta_ev_80695_1_d000000255eb40b33792e4dd9b8589a6.jpg",
+      "price": 19.99,
+      "description": "Camiseta estampada com a fofa criatura conhecida como Baby Yoda.",
+      "category": "star_wars"
+    },
+    {
+      "id": "10",
+      "name": "Capacete Boba Fett",
+      "img_url": "https://m.media-amazon.com/images/I/61ZgaGoi6aS.jpg",
+      "price": 199.99,
+      "description": "Réplica detalhada do capacete usado pelo caçador de recompensas Boba Fett.",
+      "category": "star_wars"
+    },
+    {
+      "id": "11",
+      "name": "PlayStation 5",
+      "img_url": "https://cdn.awsli.com.br/600x450/2443/2443989/produto/241308032/ps5-slim-spider2-i39ovbvzhm.jpg",
+      "price": 499.99,
+      "description": "O console mais recente da Sony com gráficos impressionantes.",
+      "category": "console"
+    },
+    {
+      "id": "12",
+      "name": "Xbox Series X",
+      "img_url": "https://m.media-amazon.com/images/I/61rApRFkOeL.jpg",
+      "price": 549.99,
+      "description": "Potente console da Microsoft com tempos de carregamento ultrarrápidos.",
+      "category": "console"
+    },
+    {
+      "id": "13",
+      "name": "Nintendo Switch",
+      "img_url": "https://infostore.vteximg.com.br/arquivos/ids/231874-1000-1000/2.jpg?v=637792403031870000",
+      "price": 299.99,
+      "description": "Console híbrido que pode ser usado tanto em casa quanto em movimento.",
+      "category": "console"
+    },
+    {
+      "id": "14",
+      "name": "PlayStation 4 Pro",
+      "img_url": "https://cdn.awsli.com.br/2500x2500/118/118222/produto/32504960/b54e9e416e.jpg",
+      "price": 399.99,
+      "description": "Versão aprimorada do console PlayStation 4 com suporte a 4K.",
+      "category": "console"
+    },
+    {
+      "id": "15",
+      "name": "Xbox One X",
+      "img_url": "https://http2.mlstatic.com/D_NQ_NP_759879-MLB69143357378_042023-O.webp",
+      "price": 449.99,
+      "description": "Versão mais poderosa do console Xbox One com gráficos em 4K.",
+      "category": "console"
+    },
+    {
+      "id": "16",
+      "name": "Nintendo Switch Lite",
+      "img_url": "https://cdn.awsli.com.br/2500x2500/1919/1919257/produto/156524122/56678dc55d.jpg",
+      "price": 199.99,
+      "description": "Versão compacta e leve do console Nintendo Switch, dedicada ao jogo portátil.",
+      "category": "console"
+    },
+    {
+      "id": "17",
+      "name": "PlayStation VR",
+      "img_url": "https://i0.wp.com/bebgames.com.br/wp-content/uploads/2022/11/PlayStation-VR-PlayStation-Camera-PS4-VR-Seminovo.png?fit=1001%2C1000&ssl=1",
+      "price": 299.99,
+      "description": "Sistema de realidade virtual para o PlayStation 4.",
+      "category": "console"
+    },
+    {
+      "id": "19",
+      "name": "Nintendo Switch Pro Controller",
+      "img_url": "https://global.cdn.magazord.com.br/gamemania/img/2023/08/produto/3703/pro-controller-nintendo-switch-preto-c.jpg?ims=600x600",
+      "price": 69.99,
+      "description": "Controle Pro de alta qualidade para o Nintendo Switch.",
+      "category": "console"
+    },
+    {
+      "id": "24",
+      "name": "Pôster Star Trek",
+      "img_url": "https://acdn.mitiendanube.com/stores/593/401/products/sp0161-poster-star-trek-0211-a11c1b7d2578c033ab15080109904310-1024-1024.jpg",
+      "price": 9.99,
+      "description": "Pôster decorativo da famosa série de ficção científica Star Trek.",
+      "category": "geek"
+    },
+    {
+      "id": "26",
+      "name": "Luminária Pac-Man",
+      "img_url": "https://d1s5vnzdzzk6v7.cloudfront.net/Custom/Content/Products/33/48/33488_luminaria-pac-man-us03_m1_637316447720091085.jpg",
+      "price": 24.99,
+      "description": "Luminária em forma do clássico personagem Pac-Man.",
+      "category": "geek"
+    },
+    {
+      "id": "27",
+      "name": "Pôster Super Mario Bros",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChWbB1u81r-VLjJByPL0WAt2ByU5Detqskg&usqp=CAU",
+      "price": 9.99,
+      "description": "Pôster com arte dos personagens de Super Mario Bros.",
+      "category": "geek"
+    },
+    {
+      "id": "29",
+      "name": "Pôster Breaking Bad",
+      "img_url": "https://i.ebayimg.com/images/g/VKIAAOSwXWxidN4g/s-l1200.webp",
+      "price": 14.99,
+      "description": "Pôster da famosa série de televisão Breaking Bad.",
+      "category": "geek"
+    },
+    {
+      "id": "30",
+      "name": "Caneca Deadpool",
+      "img_url": "https://static3.tcdn.com.br/img/img_prod/460977/caneca_logo_deadpool_cd_33567_1_9dbba6d04423c2186691996a0f3f45b0.jpg",
+      "price": 12.99,
+      "description": "Caneca com a imagem do irreverente anti-herói Deadpool.",
+      "category": "geek"
+    }
+  ]
+}
