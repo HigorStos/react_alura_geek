@@ -1,3 +1,5 @@
+import hero from "@/assets/hero.png";
+import heroMobile from "@/assets/heroMobile.png";
 import {
   HeroBackground,
   HeroItems,
@@ -9,10 +11,7 @@ import {
 const Hero = () => {
   return (
     <>
-      <HeroBackground
-        bgDesktop="./src/assets/hero.png"
-        bgMobile="./src/assets/heroMobile.png"
-      >
+      <HeroBackground bgDesktop={hero} bgMobile={heroMobile}>
         <HeroItems>
           <HeroTitle>Dezembro Promocional</HeroTitle>
           <HeroSubtitle>Produtos selecionados com 33% de desconto</HeroSubtitle>

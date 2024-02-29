@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
 
+import logo from "@/assets/logo.png";
 import {
   FooterSection,
   FooterInfos,
@@ -35,7 +36,7 @@ const Footer = () => {
       <FooterSection>
         <FooterInfos>
           <Link to="/">
-            <img src="./src/assets/logo.png" alt="Logo da AluraGeek" />
+            <img src={logo} alt="Logo da AluraGeek" />
           </Link>
           <QuestionsList>
             <li>

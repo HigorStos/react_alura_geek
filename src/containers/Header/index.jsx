@@ -7,6 +7,7 @@ import { signOut } from "firebase/auth";
 
 import { UserContext } from "@/context/UserContext";
 
+import logo from "@/assets/logo.png";
 import {
   HeaderStyled,
   HeaderDiv,
@@ -40,7 +41,7 @@ const Header = () => {
         <HeaderDiv>
           <HeaderMain>
             <Link to="/">
-              <HeaderImg src="./src/assets/logo.png" alt="Logo da AluraGeek" />
+              <HeaderImg src={logo} alt="Logo da AluraGeek" />
             </Link>
             <FormStyled>
               <SearchBar
